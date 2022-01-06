@@ -7,9 +7,18 @@ Usage:
 
 from setuptools import setup
 
-APP = ["get_video.py"]
+APP = ["app.py"]
+APP_NAME = "dltube"
 DATA_FILES = []
-OPTIONS = {"iconfile": "images/app.icns"}
+OPTIONS = {
+    "iconfile": "images/app.icns",
+    "plist": {
+        "CFBundleName": APP_NAME,
+        "CFBundleDisplayName": APP_NAME,
+        "CFBundleVersion": "1.0",
+        "CFBundleShortVersionString": "1.0",
+    },
+}
 
 setup(
     app=APP,

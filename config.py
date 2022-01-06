@@ -1,1 +1,1 @@
-DEFAULT_DIR = "./data/"
+DEFAULT_DIR = ""
