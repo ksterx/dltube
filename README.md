@@ -10,7 +10,9 @@
 ```python get_video.py```
 
 Default destination folder is `<repository>/data`.
+
 You can change it `DEFAULT_DIR` variable in `config.py` file.
+
 (If you generate an app in the following step, you must set the `DEFAULT_DIR` variable and it must be an absolute path.)
 
 ## App (For MacOS)
