@@ -1,7 +1,7 @@
 # Download YouTube Video from URL
 ---
 
-![app](images/app.png)
+![app](images/ui.png)
 
 ## Prerequisites
 ```pip install pytube pysimplegui```
