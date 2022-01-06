@@ -11,3 +11,7 @@
 
 Default destination folder is `./data`.
 You can change it `DEFAULT_DIR` variable in `config.py` file.
+
+## App
+You can also applicationize this script.
+```python setup.py py2app```
