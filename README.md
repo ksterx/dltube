@@ -13,7 +13,7 @@ pip install pytube pysimplegui
 python get_video.py
 ```
 
-Default destination folder is `<repository>/data`.
+Default destination folder is `~/Downloads/`.
 You can change it by specifying `DEFAULT_DIR` in `config.py`.
 
 
