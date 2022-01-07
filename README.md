@@ -18,6 +18,8 @@ You can change it by specifying `DEFAULT_DIR` in `config.py`.
 
 
 ## App (For MacOS)
+<img src="images/icon.png" width="50%">
+
 You can also applicationize this script.
 ```
 python setup.py py2app
