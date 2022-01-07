@@ -17,10 +17,10 @@ Default destination folder is `~/Downloads/`.
 You can change it by specifying `DEFAULT_DIR` in `config.py`.
 
 
-## App (For MacOS)
+## App (for MacOS)
 <img src="images/icon.png" width="30%">
 
-You can also applicationize this script. (`pip install py2app`)
+You can also build an app. `py2app` is required.
 ```
 python setup.py py2app
 ```
